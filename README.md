@@ -5,6 +5,7 @@ Basic PHP Object-oriented Programming
 This work is belongs to my homework task
 
 ## What's Inside
+- [x] Inheritance
 - [x] Public
 - [x] Private
 - [x] Protected
