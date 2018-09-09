@@ -1,5 +1,7 @@
 <?php
 
+// Created by Fadhiil Rachman on 2/7/2018
+
 class Kendaraan {
 	protected $listKendaraan;
 
